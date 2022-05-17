@@ -38,8 +38,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [four-card-feature-section solution](https://github.com/wiishintia/four-card-feature-section/)
+- Live Site URL: [four-card-feature-section live site](https://wiishintia.github.io/four-card-feature-section/)
 
 ## My process
 
